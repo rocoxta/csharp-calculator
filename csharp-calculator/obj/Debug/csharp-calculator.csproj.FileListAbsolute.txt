@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\bin\Debug\csharp-calculator.exe.config
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\bin\Debug\csharp-calculator.exe
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\bin\Debug\csharp-calculator.pdb
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\obj\Debug\csharp-calculator.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\obj\Debug\csharp-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\obj\Debug\csharp-calculator.exe
+C:\Users\Rodrigo\Desktop\c#\csharp-calculator\csharp-calculator\obj\Debug\csharp-calculator.pdb
